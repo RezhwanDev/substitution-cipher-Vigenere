@@ -1,7 +1,6 @@
 /**
  * @author Rezhwan Sidiq
  * 22/Nov/2017
- * MidtermExam Study (-_-
  * 6:35
  */
 package vigenere;
